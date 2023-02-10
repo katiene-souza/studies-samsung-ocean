@@ -1,2 +1,2 @@
-# studies-samsung-ocean
+# studies-samsung-ocean 📕
 estudos de back-end com a jornada da Samsung Ocean 
